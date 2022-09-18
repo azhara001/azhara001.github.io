@@ -2,21 +2,21 @@
 	"movies": [
 		{
 			"Title": "Love for Imperfect things",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Author": "Haemin Sunim",
+			"Genre": "Meditation",
+			"Good Reads Rating": "4.25/5"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Atlas of the Heart",
+			"Author": "Benne Brown",
+			"Genre": "Emotional Intelligence",
+			"Good Reads Rating": "4.4/5"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "AI in 2041",
+			"Director": "Chen Quifan/Kai-Fu Lee",
+			"Genre": "Technology",
+			"Good Reads Rating": "3.9"
 		}
 	]
 }
