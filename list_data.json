@@ -1,21 +1,18 @@
 {
-	"Favorite Books" : [
+	"movies" : [
 		{
-			"Sr. No.": "1",
-			"Title": "The Things You Can See Only When You Slow Down",
+			"Title": "Love for Imperfect things",
 			"Author": "Haemin Sunim",
 			"Genre": "Meditation"
 		},
 		{
-			"Sr. No." : "2",
 			"Title": "Atlas of the Heart",
 			"Author": "Benne Brown",
 			"Genre": "Self help"
 		},
 		{
-			"Sr. No." : "3"
 			"Title": "AI in 2041",
-			"Author": "Chen Quifan, Kai-Fu Lee",
+			"Author": "Chen Quifan/Kai-Fu Lee",
 			"Rating": "Technology"
 		}
 	]
