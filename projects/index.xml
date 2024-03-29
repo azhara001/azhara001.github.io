@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Abdullah Azhar</title>
+    <link>https://azhara001.github.io/projects/</link>
+    <description>Recent content in Projects on Abdullah Azhar</description>
+    <image>
+      <title>Abdullah Azhar</title>
+      <url>https://azhara001.github.io/coding_favicon.jpeg</url>
+      <link>https://azhara001.github.io/coding_favicon.jpeg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 14:19:50 -0700</lastBuildDate><atom:link href="https://azhara001.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine Tuning BLIP</title>
+      <link>https://azhara001.github.io/projects/fine-tuning-blip/</link>
+      <pubDate>Thu, 28 Mar 2024 14:19:50 -0700</pubDate>
+      
+      <guid>https://azhara001.github.io/projects/fine-tuning-blip/</guid>
+      <description>Fine-Tuning BLIP (Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation) Vision-based Transformer Model For Human-Pose Estimation</description>
+    </item>
+    
+    <item>
+      <title>Fine Tuning OCR-Free DONUT Model for Image-to-Text Retrieval (in progress)</title>
+      <link>https://azhara001.github.io/projects/fine-tuning-donut/</link>
+      <pubDate>Thu, 28 Mar 2024 14:18:23 -0700</pubDate>
+      
+      <guid>https://azhara001.github.io/projects/fine-tuning-donut/</guid>
+      <description> Fine-Tuning DONUT for Fabric Composition
+Links: Github Motivation </description>
+    </item>
+    
+    <item>
+      <title>Facial Recognition using eigenfaces/fisherfaces using an SVM Classifier</title>
+      <link>https://azhara001.github.io/projects/facial-recognition/</link>
+      <pubDate>Thu, 28 Mar 2024 14:16:56 -0700</pubDate>
+      
+      <guid>https://azhara001.github.io/projects/facial-recognition/</guid>
+      <description>Facial Recognition (classification) from eigenfaces and fisher faces canoncial basis using Soft-Margin Support Vector Machines</description>
+    </item>
+    
+    <item>
+      <title>Analyzing Spatio-Temporal Travel Times using Crowd-sourced Data</title>
+      <link>https://azhara001.github.io/projects/travel-times-analysis/</link>
+      <pubDate>Thu, 28 Mar 2024 14:15:42 -0700</pubDate>
+      
+      <guid>https://azhara001.github.io/projects/travel-times-analysis/</guid>
+      <description>Exploring the bittersweet relationship of schools’ closure and smog – an effective step in alleviating traffic congestions?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Education on Abdullah Azhar</title>
+    <link>https://azhara001.github.io/education/</link>
+    <description>Recent content in Education on Abdullah Azhar</description>
+    <image>
+      <title>Abdullah Azhar</title>
+      <url>https://azhara001.github.io/coding_favicon.jpeg</url>
+      <link>https://azhara001.github.io/coding_favicon.jpeg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 14:09:05 -0700</lastBuildDate><atom:link href="https://azhara001.github.io/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>University of California, Berkeley</title>
+      <link>https://azhara001.github.io/education/grad/</link>
+      <pubDate>Thu, 28 Mar 2024 14:09:05 -0700</pubDate>
+      
+      <guid>https://azhara001.github.io/education/grad/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Master in Information Management and System (Data Science) - class of 2024&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lahore University of Management Sciences</title>
+      <link>https://azhara001.github.io/education/undergrad/</link>
+      <pubDate>Wed, 10 May 2023 16:53:59 -0400</pubDate>
+      
+      <guid>https://azhara001.github.io/education/undergrad/</guid>
+      <description>&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Bachelors in Electrical and Computer Engineering - Class of 2018&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

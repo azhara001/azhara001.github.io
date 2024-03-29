@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Publications and Preprints on Abdullah Azhar</title>
+    <link>https://azhara001.github.io/publications-and-preprints/</link>
+    <description>Recent content in Publications and Preprints on Abdullah Azhar</description>
+    <image>
+      <title>Abdullah Azhar</title>
+      <url>https://azhara001.github.io/coding_favicon.jpeg</url>
+      <link>https://azhara001.github.io/coding_favicon.jpeg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 18:08:53 -0700</lastBuildDate><atom:link href="https://azhara001.github.io/publications-and-preprints/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Prediction of Tritium-Helium Groundwater Ages in the Central Valley, California, USA</title>
+      <link>https://azhara001.github.io/publications-and-preprints/ground-water-predictions/</link>
+      <pubDate>Thu, 28 Mar 2024 18:08:53 -0700</pubDate>
+      
+      <guid>https://azhara001.github.io/publications-and-preprints/ground-water-predictions/</guid>
+      <description>Azhar, A., Chakraborty, I., Visser, A., Liu, Y., Lerback, J. C., &amp;amp; Oerter, E. Machine Learning Prediction of Tritium-Helium Groundwater Ages in the Central Valley, California, USA. California, USA.</description>
+    </item>
+    
+    <item>
+      <title>Human Pose Estimation using BLIP</title>
+      <link>https://azhara001.github.io/publications-and-preprints/blip/</link>
+      <pubDate>Thu, 28 Mar 2024 17:41:00 -0700</pubDate>
+      
+      <guid>https://azhara001.github.io/publications-and-preprints/blip/</guid>
+      <description>Jinxuan Liang, Yihua Zhou, Abdullah Azhar, Anjana Manjunath University of California, Berkeley</description>
+    </item>
+    
+  </channel>
+</rss>

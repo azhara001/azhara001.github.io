@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Digital_notes on Abdullah Azhar</title>
+    <link>https://azhara001.github.io/digital_notes/</link>
+    <description>Recent content in Digital_notes on Abdullah Azhar</description>
+    <image>
+      <title>Abdullah Azhar</title>
+      <url>https://azhara001.github.io/coding_favicon.jpeg</url>
+      <link>https://azhara001.github.io/coding_favicon.jpeg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2023 15:53:59 -0400</lastBuildDate><atom:link href="https://azhara001.github.io/digital_notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unsupervised Learning</title>
+      <link>https://azhara001.github.io/digital_notes/unsupervised_learning/</link>
+      <pubDate>Wed, 10 May 2023 15:53:59 -0400</pubDate>
+      
+      <guid>https://azhara001.github.io/digital_notes/unsupervised_learning/</guid>
+      <description>Unsupervised learning. Principal components analysis (PCA). Derivations from maximum likelihood estimation, maximizing the variance, and minimizing the sum of squared projection errors. Eigenfaces for face recognition. The singular value decomposition (SVD) and its application to PCA. Clustering: k-means clustering aka Lloyd&amp;rsquo;s algorithm; k-medoids clustering; hierarchical clustering; greedy agglomerative clustering. Dendrograms. The geometry of high-dimensional spaces. Random projection. The pseudoinverse and its relationship to the singular value decomposition.</description>
+    </item>
+    
+  </channel>
+</rss>
