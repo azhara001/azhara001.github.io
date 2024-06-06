@@ -22,22 +22,12 @@
     </item>
     
     <item>
-      <title>Fine Tuning BLIP</title>
+      <title>Fine-tuning Vision Transformer-Based Model for Pose-Estimation</title>
       <link>https://azhara001.github.io/projects/fine-tuning-blip/</link>
       <pubDate>Thu, 28 Mar 2024 14:19:50 -0700</pubDate>
       
       <guid>https://azhara001.github.io/projects/fine-tuning-blip/</guid>
-      <description>Fine-Tuning BLIP (Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation) Vision-based Transformer Model For Human-Pose Estimation</description>
-    </item>
-    
-    <item>
-      <title>Fine Tuning OCR-Free DONUT Model for Image-to-Text Retrieval (in progress)</title>
-      <link>https://azhara001.github.io/projects/fine-tuning-donut/</link>
-      <pubDate>Thu, 28 Mar 2024 14:18:23 -0700</pubDate>
-      
-      <guid>https://azhara001.github.io/projects/fine-tuning-donut/</guid>
-      <description> Fine-Tuning DONUT for Fabric Composition
-Links: Github Motivation </description>
+      <description>Keywords - BLIP, Vision Transformer (ViT), Fine-Tuning, Vision-Language Pretraining (VLP), PyTorch, Mean Absolute Error (MAE), Causal Language Modelling, Self-Attention</description>
     </item>
     
     <item>
@@ -46,7 +36,7 @@ Links: Github Motivation </description>
       <pubDate>Thu, 28 Mar 2024 14:16:56 -0700</pubDate>
       
       <guid>https://azhara001.github.io/projects/facial-recognition/</guid>
-      <description>Facial Recognition (classification) from eigenfaces and fisher faces canoncial basis using Soft-Margin Support Vector Machines</description>
+      <description>Keywords -</description>
     </item>
     
     <item>
