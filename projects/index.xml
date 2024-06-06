@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2024 14:19:50 -0700</lastBuildDate><atom:link href="https://azhara001.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 14:18:23 -0700</lastBuildDate><atom:link href="https://azhara001.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine Tuning OCR Free Document Understanding Transformer for Image-to-Text Captioning</title>
+      <link>https://azhara001.github.io/projects/capstone/</link>
+      <pubDate>Wed, 05 Jun 2024 14:18:23 -0700</pubDate>
+      
+      <guid>https://azhara001.github.io/projects/capstone/</guid>
+      <description>Keywords - Multi-Modal, Image-to-Text, Multiheaded Attention, Encoder-Decoder, PyTorch, Hugging Face, GPU, SGD, AdamW, Levenshtein Distance, Cross Entropy Loss, Attention Mask</description>
+    </item>
+    
     <item>
       <title>Fine Tuning BLIP</title>
       <link>https://azhara001.github.io/projects/fine-tuning-blip/</link>
