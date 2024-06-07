@@ -18,7 +18,16 @@
       <pubDate>Wed, 05 Jun 2024 14:18:23 -0700</pubDate>
       
       <guid>https://azhara001.github.io/projects/capstone/</guid>
-      <description>Keywords - Multi-Modal, Image-to-Text, Multiheaded Attention, Encoder-Decoder, PyTorch, Hugging Face, GPU, SGD, AdamW, Levenshtein Distance, Cross Entropy Loss, Attention Mask</description>
+      <description>Keywords - Deep Learning, Multi-Modal, Image-to-Text, Multiheaded Attention, Encoder-Decoder, PyTorch, Hugging Face, GPU, SGD, AdamW, Levenshtein Distance, Cross Entropy Loss, Attention Mask</description>
+    </item>
+    
+    <item>
+      <title>Adapting to Context: A Case Study on In-Context Learning of Decision Tree Algorithms by Large Language Models</title>
+      <link>https://azhara001.github.io/projects/in-context-learning/</link>
+      <pubDate>Wed, 05 Jun 2024 14:18:23 -0600</pubDate>
+      
+      <guid>https://azhara001.github.io/projects/in-context-learning/</guid>
+      <description>Keywords - Deep Learning, LLMs, GPT2, In-Context-Learning, Pre-Training, PyTorch, Decision Trees, Gaussian Distribution, Noisy Training, Out-of-Distribution, Prompting, Root-Mean-Squared-Error</description>
     </item>
     
     <item>
@@ -45,7 +54,7 @@
       <pubDate>Thu, 28 Mar 2024 14:19:50 -0700</pubDate>
       
       <guid>https://azhara001.github.io/projects/fine-tuning-blip/</guid>
-      <description>Keywords - BLIP, Vision Transformer (ViT), Fine-Tuning, Vision-Language Pretraining (VLP), PyTorch, Mean Absolute Error (MAE), Causal Language Modelling, Self-Attention</description>
+      <description>Keywords - Deep Learning, BLIP, Vision Transformer (ViT), Fine-Tuning, Vision-Language Pretraining (VLP), PyTorch, Mean Absolute Error (MAE), Causal Language Modelling, Self-Attention</description>
     </item>
     
     <item>
